@@ -133,7 +133,7 @@ Among the 10 highest-volume carriers, Loganair records the highest cancellation 
 ### 4.4 On-Time Performance Distribution
 
 ![Figure 4: Punctuality distribution](figures/fig4_punctuality_distribution.png)
-*Figure 4: Distribution of punctuality categories, showing an overall on-time performance level of 66%.*
+*Figure 4: Distribution of punctuality categories, showing an overall on-time performance level of 67.1%.*
 
 This figure shows that around one-third of flights fall outside the on-time threshold.
 
@@ -188,7 +188,7 @@ Filtering and ranking were used to improve reliability and highlight outliers.
 
 ### 5.2 Key Findings
 
-Airport size does not appear to be a reliable predictor of delay performance. Regional airports record higher cancellation rates than major hubs. Some individual routes perform substantially worse than the wider network, especially Heathrow-Kigali. Overall on-time performance stands at 66%, meaning a significant share of flights were delayed beyond 15 minutes.
+Airport size does not appear to be a reliable predictor of delay performance. Regional airports record higher cancellation rates than major hubs. Some individual routes perform substantially worse than the wider network, especially Heathrow-Kigali. Overall on-time performance stands at 67.1%, meaning a significant share of flights were delayed beyond 15 minutes.
 
 ### 5.3 Ethical Considerations
 
